@@ -7,8 +7,8 @@ The Movie Database Management System (MDBMS) is designed to manage and catalog a
 ## System Architecture
 
 ### Database Objects:
-**Tables**: 14 (including entities and associative entities with primary and foreign keys, ensuring normalization and data integrity)
-**Views**: 5 (created for optimized data retrieval and management of user access)
+- **Tables**: 14 (including entities and associative entities with primary and foreign keys, ensuring normalization and data integrity)
+- **Views**: 5 (created for optimized data retrieval and management of user access)
 **Stored Procedures**: 4 (used for encapsulating data manipulation and business logic)
 **User Defined Functions**: 3 (enhancing reusability and modularization of the system)
 **DML Triggers**: 1 (automates processes like logging and audit trails)
