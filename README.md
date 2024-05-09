@@ -36,6 +36,8 @@ The schema is designed to support complex queries, ensuring flexibility and scal
 ## Entity Relationship Diagram (ERD)
 The **ERD** is meticulously crafted to represent all entities, their relationships, and constraints accurately, which is crucial for maintaining the database's integrity and efficiency.
 
+![Entity Relationship Diagram - MDBMS](https://github.com/Nishieee/Movie-Database-Management-System/blob/main/ERD.jpg?raw=true)
+
 ## Future Enhancements
 - **Broadcaster Categorization**: Further refinement of broadcaster data to enhance filtering and search capabilities.
 - **Interactive Review Comments**: New features to allow users to comment on reviews, facilitating deeper engagement and community discussion.
